@@ -1,7 +1,7 @@
 # GUI of Brian2
 ## 简介：一个使用jupyter notebook实现的脉冲神经网络开源库Brian2的GUI
 ## 演示视频
-[![Watch the video](https://img.youtube.com/vi/_p6OPUBtzNQ/maxresdefault.jpg)](https://youtu.be/_p6OPUBtzNQ)
+[![Watch the video](https://img.youtube.com/vi/uKZUgR4GqeU/maxresdefault.jpg)](https://youtu.be/uKZUgR4GqeU)
 ## 展示：
 ### 全局变量模块：
 ![img.jpg](display/global.jpg)
